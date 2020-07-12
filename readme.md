@@ -1,3 +1,8 @@
+![picture](system_overview.png)
+
+
+
+
 !!!!!!!!!!!!!!!!!!!!!!
 !!! IMPORTANT NOTE !!!
 !!!!!!!!!!!!!!!!!!!!!!
