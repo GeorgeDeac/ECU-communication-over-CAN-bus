@@ -1,5 +1,5 @@
 #include "jdp.h" 
-//Programmable Interval Timer
+
 /* configures timer "timerChannel" and sets it to period of "loadValue" ms */
 void PIT_ConfigureTimer(int timerChannel, unsigned int loadValue)
 {
